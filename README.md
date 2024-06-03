@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=Katherina-Ushachov&theme=onedark)](https://github.com/Katherina-Ushachov/github-profile-trophy)
+
 - 👋 Hi, I’m @Katherina-Ushachov
 - 👀 I’m interested in making electronic music using voicebanks, the inner workings of the universe, progressive sff literature in German, and actually lots of other stuff that would probably break the containment of this README.
 - 🌱 I’m currently learning C#, that's why I'm here. I'm also learning how to use SynthV software, Clip Studio Paint, Sonus music software and DaVinci videomaking. 
